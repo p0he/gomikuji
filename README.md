@@ -1,2 +1,2 @@
 # gomikuji
-Omikuji in Go.
+Omikuji written in Go.
